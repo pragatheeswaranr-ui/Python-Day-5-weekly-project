@@ -1,0 +1,11 @@
+DATA CLEANING DECISIONS
+
+Project: Employee Data Analysis Dataset: IBM HR Employee Attrition Dataset
+
+Missing Values: The dataset contains 1470 rows. No missing values were found. Therefore, no filling or dropping method was required.
+Duplicate Records: No duplicate records were found. Therefore, no records were removed.
+Data Types: Numerical and categorical columns were checked. Data types were reviewed and converted wherever necessary. No date conversion was required because the dataset does not contain a date column.
+Text Standardisation: Extra spaces were removed from categorical columns using the strip() method. This helps maintain consistency in text values.
+Outlier Detection: Outliers were identified using the IQR method. Box plots were also used to visualise extreme values.
+Outlier Treatment: Valid extreme values were retained because they may represent genuine employee information. No valid employee records were removed only because they were outliers.
+Final Result: The cleaned dataset was saved as clean_data.csv. The before and after cleaning summary was saved as cleaning_summary.csv.

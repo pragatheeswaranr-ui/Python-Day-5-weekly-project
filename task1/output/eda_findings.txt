@@ -1,0 +1,29 @@
+EMPLOYEE DATA ANALYSIS
+PART 1 - EXPLORATORY DATA ANALYSIS
+
+Dataset:
+IBM HR Employee Attrition Dataset
+
+Total Employees: 1470
+
+Analysis Performed:
+
+1. Employee Attrition Analysis
+2. Department-wise Attrition Analysis
+3. Age Distribution Analysis
+4. Monthly Income Analysis
+5. Overtime Analysis
+6. Correlation Heatmap
+
+Observations:
+
+1. Employee attrition was analysed.
+2. Department-wise employee attrition was compared.
+3. Age distribution was studied.
+4. Monthly income differences were analysed.
+5. Overtime and attrition patterns were compared.
+6. Numerical variable relationships were visualised.
+
+Conclusion:
+Exploratory Data Analysis helped to understand
+employee characteristics and attrition patterns.
