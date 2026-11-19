@@ -1,0 +1,34 @@
+EMPLOYEE DATA ANALYSIS – FINDINGS SUMMARY
+1. Problem Statement
+
+The objective of this analysis is to understand employee attrition and identify workplace factors associated with employees leaving the company.
+
+2. Dataset
+Dataset: IBM HR Employee Attrition Dataset
+Total Employees: 1470
+Total Columns: 35
+Analysis Tool: Python, Pandas, Matplotlib and Seaborn.
+3. Three Key Insights
+
+Insight 1: Employee Attrition
+
+Out of 1470 employees, 237 employees left the company and 1233 employees stayed. The attrition rate is approximately 16.12%.
+
+Insight 2: Overtime and Attrition
+
+Among employees working overtime, 127 employees left the company, while 289 stayed. Employees working overtime show a higher attrition proportion than employees not working overtime.
+
+Insight 3: Monthly Income and Attrition
+
+Employees who left had an average monthly income of 4787, whereas employees who stayed had an average monthly income of 6833.
+
+4. Two Recommendations
+The company should review overtime workload and provide better work-life balance for employees.
+The company should review salary structures and compensation policies to improve employee satisfaction and retention.
+5. Limitations
+The analysis is based on the available employee dataset only.
+The dataset does not establish the causes of employee attrition.
+The analysis shows associations, not cause-and-effect relationships.
+Conclusion
+
+The analysis identified differences in attrition based on overtime and monthly income. These findings can help the company understand employee retention patterns and consider improvements in workplace policies.
